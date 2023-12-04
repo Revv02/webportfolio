@@ -2,7 +2,7 @@
 
     "capstone": {
 
-        "liveLink": "<github page link>",
+        "liveLink": "https://revv02.github.io/webportfolio/",
 
         "name": "Revin Berces>",
 
